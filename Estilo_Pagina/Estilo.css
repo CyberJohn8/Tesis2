@@ -181,13 +181,6 @@ CUERPO
     background-image: url("Fotos/Fondo_Compu_Inicio.jpg");
 }
 
-/* Estilo_Pagina/Estilo.css */
-
-/* Clase para el fondo inicial */
-/* .fondo-inicial {
-    background-image: url("Fotos/FondoInicio22.png");
-} */
-
 /* Clase para el fondo final */
 .fondo-final {
     background-image: url("Fotos/Fondo_Compu_Final.jpg");
