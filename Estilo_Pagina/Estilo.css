@@ -178,12 +178,12 @@ CUERPO
     overflow: hidden; /* Deshabilita todo el scroll */
 
     transition: background-image 1s ease-in-out; /* Transición suave */
-    background-image: url("Fotos/Fondo_Compu_Inicio.png");
+    background-image: url("../Fotos/Fondo_Compu_Inicio.jpg");
 }
 
 /* Clase para el fondo final */
 .fondo-final {
-    background-image: url("Fotos/Fondo_Telefono_Final.png");
+    background-image: url("../Fotos/Fondo_Compu_Final.jpg");
 }
 
 /* Clase para el encabezado con fondo */
@@ -546,12 +546,12 @@ FORMATO CELULARES
 
     /* Clase para el fondo inicial */
     .fondo-inicial {
-        background-image: url("Fotos/Fondo_Telefono_Inicio.png");
+        background-image: url("../Fotos/Fondo_Telefono_Inicio.png");
     }
 
     /* Clase para el fondo final */
     .fondo-final {
-        background-image: url("Fotos/Fondo_Telefono_Final.png");
+        background-image: url("../Fotos/Fondo_Telefono_Final.png");
     }
 
     .Tronco {
