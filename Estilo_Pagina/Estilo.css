@@ -19,14 +19,14 @@
 /* Definición de fuente personalizada */
 @font-face {
     font-family: 'Exotc350';
-    src: url('../Estilo_Texto/EXOT350B.TTF') format('truetype'); /* Formato TrueType (.ttf) */
+    src: url('Estilo_Texto/EXOT350B.TTF') format('truetype'); /* Formato TrueType (.ttf) */
     font-weight: normal; /* Peso de la fuente */
     font-style: normal; /* Estilo de la fuente */
 }
 
 @font-face {
     font-family: 'Gothy';
-    src: url('../Estilo_Texto/Gothy/GOTHIC.TTF') format('truetype'); /* Formato TrueType (.ttf) */
+    src: url('Estilo_Texto/Gothy/GOTHIC.TTF') format('truetype'); /* Formato TrueType (.ttf) */
     font-weight: normal; /* Peso de la fuente */
     font-style: normal; /* Estilo de la fuente */
 }
@@ -188,12 +188,12 @@ CUERPO
 
 /* Clase para el encabezado con fondo */
 .header-final {
-    background-image: none;     /*url("../Alexa Web/Fotos/cabeza.png")*/
+    background-image: none;     
 }
 
 /* Clase para el pie de página con fondo */
 .footer-final {
-    background-image: none;       /*url("../Alexa Web/Fotos/pies.png")*/
+    background-image: none;      
 }
 
 .Tronco {
@@ -286,18 +286,6 @@ CUERPO
 
 }
 
-/*Estilo de galeria cambiante*/
-/*CSS del carusel*/
-/* Contenedor principal del carrusel */
-/* .Cuerpo_Carusel{
-
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: 0;
-
-} */
-
 /* styles.css */
 /* Multi_Menu de Galeria */
 
@@ -305,7 +293,7 @@ CUERPO
 .menu-container {
     margin: 20px; /* Márgenes exteriores */
 
-    background-image: url('../Fotos/Menu_Barra.png'); /* Cambia a la ruta de tu imagen */
+    background-image: url('Fotos/Menu_Barra.png'); /* Cambia a la ruta de tu imagen */
     background-size: cover; /* Ajusta la imagen para cubrir todo el fondo */
     background-position: center; /* Centra la imagen */
     background-repeat: no-repeat; /* Evita que la imagen se repita */
