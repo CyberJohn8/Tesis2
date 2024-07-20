@@ -178,22 +178,22 @@ CUERPO
     overflow: hidden; /* Deshabilita todo el scroll */
 
     transition: background-image 1s ease-in-out; /* Transición suave */
-    background-image: url("../Fotos/Fondo_Compu_Inicio.jpg");
+    background-image: url("https://github.com/CyberJohn8/Tesis2/blob/main/Fotos/Fondo_Compu_Inicio.jpg");
 }
 
 /* Clase para el fondo final */
 .fondo-final {
-    background-image: url("../Fotos/Fondo_Compu_Final.jpg");
+    background-image: url("https://github.com/CyberJohn8/Tesis2/blob/main/Fotos/Fondo_Compu_Final.jpg");
 }
 
 /* Clase para el encabezado con fondo */
 .header-final {
-    background-image: none;     /*url("Fotos/cabeza.png")*/
+    background-image: none;
 }
 
 /* Clase para el pie de página con fondo */
 .footer-final {
-    background-image: none;       /*url("Fotos/pies.png")*/
+    background-image: none;
 }
 
 .Tronco {
@@ -546,12 +546,12 @@ FORMATO CELULARES
 
     /* Clase para el fondo inicial */
     .fondo-inicial {
-        background-image: url("../Fotos/Fondo_Telefono_Inicio.png");
+        background-image: url("https://github.com/CyberJohn8/Tesis2/blob/main/Fotos/Fondo_Telefono_Inicio.jpg");
     }
 
     /* Clase para el fondo final */
     .fondo-final {
-        background-image: url("../Fotos/Fondo_Telefono_Final.png");
+        background-image: url("https://github.com/CyberJohn8/Tesis2/blob/main/Fotos/Fondo_Telefono_Final.jpg");
     }
 
     .Tronco {
